@@ -37,9 +37,13 @@ python main.py
 
 ### 💡 Features
 📚 Add, remove, and view books in the library
+
 🔎 Search if a book is available
+
 📥 Borrow books and return later
+
 📌 Add books to your wishlist
+
 🧩 Modularized and cleanly separated logic
 
 ---
