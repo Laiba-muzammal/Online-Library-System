@@ -1,20 +1,61 @@
-# Interactive Library Management System
-<pre>
- This program is for an online library system. The Library class has different features to manage books, borrowing, and wishlists.
+# 📚 Online Library System (Console-Based Python App)
 
- Here’s what you can do with the Library:
- 1. Display books: See all the books available in the library.
- 2. Search for a book: Check if a specific book is in the library.
- 3. Add a book: Add a new book to the library if it’s not already there.
- 4. Remove a book: Take a book out of the library.
- 5. Borrow a book: Take a book to read and add it to your borrowed list.
- 6. Show borrowed books: See all the books you have borrowed.
- 7. Return a book: Give back a book you borrowed.
- 8. Show wishlist: See books you want to borrow later.
- 9. Add to wishlist: Add a book from the library to your wishlist.
- 10. Remove from wishlist: Take a book out of your wishlist.
- 11. Exit: Leave the program.
+A simple command-line based Library Management System that allows users to:
 
- You can interact with the library by choosing options from the main menu. 
- Keep using the library until you decide to exit.
-</pre>
+✅ Add, Remove, Search books  
+📖 Borrow and Return books  
+❤️ Manage Wishlist  
+🧠 Built completely in **Python** with **modular structure**
+
+---
+
+## 📁 Folder Structure
+
+```bash
+LibrarySystem/
+├── library.py # All class logic
+├── main.py # User interface + menu
+├── README.md # Documentation
+```
+
+---
+
+## 🎮 How to Run
+
+### Step 1: Move to project folder
+
+```bash
+cd LibrarySystem
+```
+
+### Step 2: Run the app
+```bash
+python main.py
+```
+
+---
+
+### 💡 Features
+📚 Add, remove, and view books in the library
+🔎 Search if a book is available
+📥 Borrow books and return later
+📌 Add books to your wishlist
+🧩 Modularized and cleanly separated logic
+
+---
+
+### 🔧 Technologies Used
+Tool	Purpose
+Python	Core backend & logic
+OOP	Class-based functionality
+
+---
+
+### 👩‍💻 Author
+Laiba Muzammal
+Python Developer | OOP & CLI Enthusiast
+
+---
+
+### 📝 License
+MIT License — Free to use, modify, and learn.
