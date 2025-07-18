@@ -58,8 +58,3 @@ OOP	Class-based functionality
 ### 👩‍💻 Author
 Laiba Muzammal
 Python Developer | OOP & CLI Enthusiast
-
----
-
-### 📝 License
-MIT License — Free to use, modify, and learn.
